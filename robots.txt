@@ -1,0 +1,7 @@
+*User-agent: *
+Disallow: /bio.html
+Disallow: /profile.html
+Disallow: /naruto.html
+Disallow: /findme.html
+Disallow: /random.html
+Disallow: /here.html
